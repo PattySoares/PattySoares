@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PattySoares
-- 👀 I’m interessada  em fazer  minha TRANSICAO DE CARREIRA.
-- 🌱 I’m currently learning  mais sobre Power BI, Excel Avancado,SQL,Html,CSS etc.
-- 💞️ I’m looking to  estudar para  ter melhor desempenho na minha transiçao de carreira
+- 🌱 Sou consultora de Power BI, Excel Avancado,SQL,Html,CSS etc.
+- 💞️ Estou sempre me atualizando, sobre as tecnologias de mercado.
 - 📫 How to reach me ...poderá me deixar msg....ate breve!
 
 <!---
